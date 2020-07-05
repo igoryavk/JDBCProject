@@ -9,5 +9,12 @@ repositories {
 }
 
 dependencies {
+    implementation "org.springframework:spring-core:5.2.7.RELEASE"
+    implementation "org.springframework:spring-web:5.2.7.RELEASE"
+    implementation "org.springframework:spring-webmvc:5.2.7.RELEASE"
+    implementation "com.fasterxml.jackson.core:jackson-core:2.11.1"
+    implementation "com.fasterxml.jackson.core:jackson-databind:2.11.1"
+    implementation "org.springframework:spring-context:5.2.7.RELEASE"
+    implementation "org.springframework:spring-jdbc:5.2.7.RELEASE"
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
