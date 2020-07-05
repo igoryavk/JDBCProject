@@ -1,0 +1,23 @@
+[33mcommit 868f479e5929f5c6ad79fa2cf6b37ca91de9dd73[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: igoryavk <igoryavk@gmail.com>
+Date:   Sun Jul 5 12:34:48 2020 +0300
+
+    Добавлен файл конфигурации ApplicationContext и на его основе создается объект Спринг Контекста
+
+[33mcommit 12667386e782691a04a4c775f790fab1ef46f174[m
+Author: igoryavk <igoryavk@gmail.com>
+Date:   Sun Jul 5 12:23:24 2020 +0300
+
+    Добавлен плагин ShadowJar для создания Fat-jar
+
+[33mcommit 137de8d43044f9b688d0687ce14e0dbbe0438eb0[m
+Author: igoryavk <igoryavk@gmail.com>
+Date:   Sun Jul 5 11:59:07 2020 +0300
+
+    Добавлены необходимые зависимости проекта
+
+[33mcommit 23d3e2ba704dc530373e8d0f3ebd36f97b6663f1[m
+Author: igoryavk <igoryavk@gmail.com>
+Date:   Sun Jul 5 11:23:14 2020 +0300
+
+    Это первый коммит после создания репозитория
